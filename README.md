@@ -1,6 +1,10 @@
 # Taller 9 (Laboratorio)
 ## Construcción de programas usando arreglos unidimensionales
 
+Integrantes:
+Renato Rojas
+Steveen Cuenca
+
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
 
 ### Ejercicio 1
@@ -60,3 +64,7 @@ String[] estudiantes = {"Kimberly", "Hogan",
  }
 ```
 Modifique el ciclo repetitivo para que salga del mismo, cuando el usuario ingrese por teclado una letra que coincida con alguna de las primeras letras de los nombres del arreglo **estudiantes**. Debe usar un ciclo repetitivo para recorrer el arreglo **estudiantes**.
+
+Integrantes:
+Renato Rojas
+Steveen Cuenca
